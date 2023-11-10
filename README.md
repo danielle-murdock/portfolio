@@ -1,0 +1,3 @@
+Hi! I'm currently a Senior Data Analyst supporting Go To Market functions through analytics engineering and traditional business intelligence function. I have 5+ years of experience in data analysis with SQL primarily in Redshift, Snowflake and Microsoft SQL Server. My educational background is in behavioral neuroscience graduating from Washington College. While I may have learned how to code on the job, my research background taught me how to ask questions which is arguably one of the most important non-technical skill to have in the data world. 
+
+This portfolio is a sample of some independent projects as well as a way for me to track my progress in fine tuning my technical skillset.
